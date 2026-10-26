@@ -39,8 +39,8 @@ body {
   border-radius: 15px;
 }
 a:hover{
-  color: green;
+  color: hsl(120, 100%, 25%;
 }
 b:hover{
-  color: lightcoral;
+  color: hwb(0 50% 6%);
 }
