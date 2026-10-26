@@ -39,8 +39,8 @@ body {
   border-radius: 15px;
 }
 a:hover{
-  color: hsl(120, 100%, 25%;
+  color: hsl(120, 100%, 25%);
 }
-b:hover{
+button:hover{
   color: hwb(0 50% 6%);
 }
